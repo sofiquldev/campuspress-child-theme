@@ -38,7 +38,7 @@ add_action('admin_init', 'check_required_plugins');
 function genesis_custom_blocks_notice() {
     ?>
     <div class="notice notice-error">
-        <p><?php _e('The CampusPress Flex Child theme requires the Genesis Custom Blocks plugin to be installed and activated. Please install and activate the plugin.', 'campuspress-flex-child'); ?></p>
+        <p><?php _e('The CampusPress Flex Child theme requires the Genesis Custom Blocks plugin to be installed and activated. Please install and activate the plugin.', 'campuspress-child'); ?></p>
     </div>
     <?php
 }
