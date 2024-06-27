@@ -1,0 +1,15 @@
+/*
+Theme Name: CampusPress Flex Child
+Theme URI: http://example.com/campuspress-flex-child
+Description: CampusPress Flex Child Theme
+Author: Shah Zobayer Ahmed
+Author URI: http://example.com
+Template: campuspress-flex
+Version: 1.0.0
+Text Domain: campuspress-flex-child
+*/
+
+/* Import the parent theme's stylesheet */
+@import url("../campuspress-flex/style.css");
+
+/* Your custom styles go here */
